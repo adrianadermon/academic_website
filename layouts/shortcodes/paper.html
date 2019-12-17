@@ -1,0 +1,31 @@
+{{ $papers := .Page.Params.Papers }}
+{{ $site := .Site}}
+{{ range $papers }}
+  {{ with $site.GetPage . }}
+    {{ $date := time (.Params.Date)}}
+    <div>
+      <h3><a href={{ .Params.Url_pdf }}>{{ .Title }} ({{ $date.Year }})</a></h3>
+      <div class="abstract">
+        {{ $authors := .Params.Authors}}
+        {{ if gt (len $authors) 1 }}
+          <div>
+            with
+            {{ $authors = slice "Adrian Adermon" | symdiff $authors }}
+            {{ if eq (len $authors) 2 }}
+              {{ delimit $authors " and "}}
+            {{ else }}
+              {{ delimit $authors ", " ", and "}}
+            {{ end }}
+          </div>
+        {{ end }}
+        <a href={{ .Params.Url_journal }}><em>{{ .Params.Publication }}</em> {{ .Params.Volume }}{{ if .Params.Number }}({{ .Params.Number }}){{ end }}</a>
+        <div> {{ .Params.Abstract | markdownify }}</div>
+        <div class="urls">
+          {{ range .Params.Url_custom }}
+            <a href={{ .url }}>{{ .name }}</a>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  {{ end }}
+{{ end }}

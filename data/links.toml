@@ -1,0 +1,50 @@
+email = "adrian.adermon@ifau.uu.se"
+orcid = "0000-0002-7062-4308"
+scholar = "rZWge14AAAAJ"
+researchgate = "Adrian_Adermon"
+publons = "637267/adrian-adermon"
+twitter = "adrianadermon"
+linkedin = "adrian-adermon-ab13977b"
+github = "adrianadermon"
+ideas = "pad101"
+
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:adrian.adermon@ifau.uu.se"
+
+  [[params.social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "//scholar.google.com/citations?user=rZWge14AAAAJ"
+
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/adrianadermon"
+
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//www.linkedin.com/in/adrian-adermon-ab13977b/"
+
+  [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "//www.researchgate.net/profile/Adrian_Adermon"
+
+  [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "//orcid.org/0000-0002-7062-4308"
+
+  [[params.social]]
+    icon = "publons"
+    icon_pack = "ai"
+    link = "//publons.com/author/637267/adrian-adermon#profile"
+
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/adrianadermon"
+

@@ -1,0 +1,11 @@
+{{ define "main" }}
+<section id="main">
+  <div class="container">
+  <h1 id="title">{{ .Title }}</h1>
+  <h1 id="author">{{ $.Param "author" }}</h1>
+        <article id="content">
+           {{ .Content }}
+        </article>
+  </div>
+</section>
+{{ end }}

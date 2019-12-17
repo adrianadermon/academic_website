@@ -1,0 +1,51 @@
+{{ define "main" }}
+    <main aria-role="main">
+      <header class="homepage-header">
+        <h1>{{.Title}}</h1>
+        {{ with .Params.subtitle }}
+        <span class="subtitle">{{.}}</span>
+        {{ end }}
+      </header>
+        <div class="home-container">
+            <div class="portrait">
+              <img src="/img/portrait1.jpg" alt="Portrait" class="img-fluid rounded-circle w-25">
+              <div class="social ai-2x fa-2x">
+              <!-- <a href="mailto:{{ .Site.Data.links.email }}" alt="Send email" data-toggle="tooltip" title="Email"><i class="fa fa-envelope"></i></a> -->
+              <a href="//scholar.google.com/citations?user={{ .Site.Data.links.scholar }}" alt="Link to Google Scholar" data-toggle="tooltip" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+              <!-- <a href="//www.researchgate.net/profile/{{ .Site.Data.links.researchgate }}" alt="Link to ResearchGate" data-toggle="tooltip"><i class="ai ai-researchgate" title="ResearchGate"></i></a> -->
+              <a href="//github.com/{{ .Site.Data.links.github }}" alt="Link to GitHub" data-toggle="tooltip" title="GitHub"><i class="fab fa-github"></i></a>
+              <a href="//ideas.repec.org/e/{{ .Site.Data.links.ideas }}.html" alt="Link to IDEAS" data-toggle="tooltip" title="IDEAS RePEc"><i class="ai ai-ideas-repec"></i></a>
+              <a href="//publons.com/author/{{ .Site.Data.links.publons }}" alt="Link to Publons" data-toggle="tooltip" title="Publons"><i class="ai ai-publons"></i></a>
+              <a href="https://orcid.org/{{ .Site.Data.links.orcid }}" alt="Link to ORCiD" data-toggle="tooltip" title="ORCiD"><i class="ai ai-orcid"></i></a>
+              <a href="//www.linkedin.com/in/{{ .Site.Data.links.linkedin }}" alt="Link to LinkedIn" data-toggle="tooltip" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+              <a href="//twitter.com/{{ .Site.Data.links.twitter }}" alt="Link to Twitter" data-toggle="tooltip" title="Twitter"><i class="fab fa-twitter"></i></a>
+              </div>
+            </div>
+            <div class="home-presentation">
+        <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+              {{.Content}}
+            </div>
+          </div>
+          <!-- <div> -->
+          <!--   {{ $papers := .Site.GetPage "/research" }} -->
+          <!--   {{ $published := $papers.Resources.ByType "page"}} -->
+          <!--   <h2>Published papers</h2> -->
+          <!--   {{ range $published }} -->
+          <!--       <h3>{{ .Title }}</h3> -->
+          <!--       {{ .Params.Abstract | markdownify }} -->
+          <!--       {{ .Params.Publication | markdownify }} -->
+          <!--   {{ end }} -->
+          <!-- </div> -->
+            <div class="research">
+              {{ with .Site.GetPage "/research" }}
+                {{ .Content }}
+              {{ end }}
+            </div>
+      <div>
+        <!-- Note that .Pages is the same as .Site.RegularPages on the homepage template. -->
+        {{ range first 10 .Pages }}
+            {{ .Render "summary"}}
+        {{ end }}
+      </div>
+    </main>
+{{ end }}
