@@ -2,7 +2,7 @@
 title = "Research"
 type = "page"
 headless = true
-papers = ["absolute-mobility", "intergenerational-wealth", "job-polarization", "piracy", "gig-jobs"]
+papers = ["dynastic-human-capital", "absolute-mobility", "intergenerational-wealth", "job-polarization", "piracy", "gig-jobs"]
 +++
 
 # Research
