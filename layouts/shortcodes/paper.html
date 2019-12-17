@@ -6,18 +6,7 @@
     <div>
       <h3><a href={{ .Params.Url_pdf }}>{{ .Title }} ({{ $date.Year }})</a></h3>
       <div class="abstract">
-        {{ $authors := .Params.Authors}}
-        {{ if gt (len $authors) 1 }}
-          <div>
-            with
-            {{ $authors = slice "Adrian Adermon" | symdiff $authors }}
-            {{ if eq (len $authors) 2 }}
-              {{ delimit $authors " and "}}
-            {{ else }}
-              {{ delimit $authors ", " ", and "}}
-            {{ end }}
-          </div>
-        {{ end }}
+        {{ partial "authors.html" .Params.Authors }}
         <a href={{ .Params.Url_journal }}><em>{{ .Params.Publication }}</em> {{ .Params.Volume }}{{ if .Params.Number }}({{ .Params.Number }}){{ end }}</a>
         <div> {{ .Params.Abstract | markdownify }}</div>
         <div class="urls">
