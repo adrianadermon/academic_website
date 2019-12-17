@@ -234,4 +234,4 @@ Discussant at final seminar for Mengyi Cao's Ph.D. thesis manuscript, Stockholm 
 
 ## Awards and honors
 
-Excellence in Reviewing Award (top 25 reviewer), \emph{Labour Economics}, 2017.
+Excellence in Reviewing Award (top 25 reviewer), *Labour Economics*, 2017.

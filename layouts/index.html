@@ -41,6 +41,9 @@
                 {{ .Content }}
               {{ end }}
             </div>
+            <div class="last-updated">
+              Last updated: {{ .Date.Format "2006-01-02" }}
+            </div>
       <div>
         <!-- Note that .Pages is the same as .Site.RegularPages on the homepage template. -->
         {{ range first 10 .Pages }}

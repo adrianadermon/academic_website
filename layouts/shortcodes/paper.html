@@ -7,7 +7,9 @@
       <h3><a href={{ .Params.Url_pdf }}>{{ .Title }} ({{ $date.Year }})</a></h3>
       <div class="abstract">
         {{ partial "authors.html" .Params.Authors }}
-        <a href={{ .Params.Url_journal }}><em>{{ .Params.Publication }}</em> {{ .Params.Volume }}{{ if .Params.Number }}({{ .Params.Number }}){{ end }}</a>
+        <a href={{ .Params.Url_journal }}><em>{{ .Params.Publication }}</em>
+          {{ .Params.Volume }}{{ if .Params.Number }}({{ .Params.Number }}){{ end }}
+        </a>
         <div> {{ .Params.Abstract | markdownify }}</div>
         <div class="urls">
           {{ range .Params.Url_custom }}

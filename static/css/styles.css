@@ -48,6 +48,10 @@ a:active {
   color: var(--alt-color-2);
 }
 
+.last-updated {
+  margin-top: 1em;
+  text-align: right;
+}
 
 /* Main layout */
 .wrapper {

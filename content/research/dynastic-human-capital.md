@@ -8,7 +8,7 @@ authors = ["Adrian Adermon", "Mikael Lindahl", "Mårten Palme"]
 
 date = "2019-04-25"
 
-publication = "IZA Discussion Paper, revise and resubmit at *American Economic Review*"
+publication = "IZA Discussion Paper, revise and resubmit at American Economic Review"
 
 url_pdf = "https://www.dropbox.com/s/pksbku8c9a381t1/dp12300.pdf?dl=0"
 
