@@ -1,0 +1,25 @@
+% Load US english hyphenation patterns
+\usepackage{polyglossia}
+    \setdefaultlanguage[variant=usmax]{english}
+
+\usepackage[style=american]{csquotes}
+
+\usepackage{microtype}
+
+\usepackage{parskip}
+
+\usepackage[compact,sc]{titlesec}
+
+% Set size and type for title
+\makeatletter
+\patchcmd{\@maketitle}{\LARGE \@title}{\scshape\Large\@title}{}{}
+\makeatother
+
+% Set size and type for author
+\usepackage{authblk}
+\renewcommand\Authfont{\scshape\huge}
+
+% Attempt to remove table lines
+\renewcommand{\toprule}{}
+\renewcommand{\midrule}{}
+\renewcommand{\bottomrule}{}

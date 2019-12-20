@@ -7,7 +7,7 @@ publication = "Journal of Economic Behavior & Organization"
 volume = "105"
 url_code = ""
 url_dataset = ""
-url_pdf = "https://www.dropbox.com/s/cks67mp2m3up4kt/Piracy%20and%20Music%20Sales%202014.pdf?dl=0"
+url_pdf = "/pdf/Piracy_and_Music_Sales_2014.pdf"
 url_journal = "http://www.sciencedirect.com/science/article/pii/S0167268114001395"
 
 [[url_custom]]

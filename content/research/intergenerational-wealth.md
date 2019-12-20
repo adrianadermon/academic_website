@@ -12,7 +12,7 @@ number = "612"
 
 url_code = "https://github.com/adrianadermon/intergenerational_wealth_mobility"
 url_dataset = ""
-url_pdf = "https://www.dropbox.com/s/8gyjreem58wi3ai/Intergenerational%20Wealth%20Mobility%202018.pdf?dl=0"
+url_pdf = "/pdf/Intergenerational_Wealth_Mobility_2018.pdf"
 url_journal = "https://onlinelibrary.wiley.com/doi/abs/10.1111/ecoj.12535"
 
 [[url_custom]]

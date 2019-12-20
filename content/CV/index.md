@@ -1,8 +1,8 @@
-+++
-title = "Curriculum Vitae"
-author = "Adrian Adermon"
-type = "page"
-+++
+---
+title: "Curriculum Vitae"
+author: "Adrian Adermon"
+type: "page"
+---
 
 
 Personal details |                   |Contact information|

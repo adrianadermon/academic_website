@@ -12,7 +12,7 @@ number = "3"
 
 url_code = ""
 url_dataset = ""
-url_pdf = "https://www.dropbox.com/s/kny16kpzjsbs81x/Job%20Polarization%20and%20Technological%20Change%202015.pdf?dl=0"
+url_pdf = "/pdf/Job_Polarization_and_Technological_Change_2015.pdf"
 url_journal = "http://onlinelibrary.wiley.com/doi/10.1111/sjoe.12109/full"
 
 [[url_custom]]
