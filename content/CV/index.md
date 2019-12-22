@@ -4,20 +4,13 @@ author: "Adrian Adermon"
 type: "page"
 ---
 
-
-Personal details |                   |Contact information|
------------------|-------------------|-------------------|-----------------
-Born:            |October, 1981      |Home adress:       |Salagatan 5b
-&nbsp;           |Östersund, Sweden  |                   |753 30 Uppsala
-Nationality:     |Swedish            |                   |Sweden
-Languages:       |Swedish (native)   |Address:           |IFAU
-&nbsp;           |English (fluent)   |                   |P.O. Box 513
-&nbsp;           |German (basic)     |                   |SE-752 20 Uppsala
-&nbsp;           |                   |Work email:        |adrian.adermon@ifau.uu.se
-&nbsp;           |                   |Personal email:    |adrian.adermon@gmail.com
-&nbsp;           |                   |Work phone:        |+46 (0)18 471 70 86
-&nbsp;           |                   |Mobile phone:      |+46 (0)73 045 35 25
-&nbsp;           |                   |Personal web site: |[www.adrianadermon.com](https://www.adrianadermon.com)
+|                   |                                                        |
+|:------------------|:-------------------------------------------------------|
+| Postal address:   | IFAU, P.O. Box 513, 752 20 Uppsala, Sweden             |
+| Visiting address: | IFAU, Kyrkogårdsgatan 6, 753 12 Uppsala, Sweden        |
+| Telephone:        | +46 (0)18 471 70 86                                    |
+| Email:            | adrian.adermon@ifau.uu.se                              |
+| Website:          | [www.adrianadermon.com](https://www.adrianadermon.com) |
 
 ## Current position
 
@@ -235,3 +228,7 @@ Discussant at final seminar for Mengyi Cao's Ph.D. thesis manuscript, Stockholm 
 ## Awards and honors
 
 Excellence in Reviewing Award (top 25 reviewer), *Labour Economics*, 2017.
+
+## Personal
+
+Born in 1981. Swedish citizenship.
