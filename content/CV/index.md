@@ -4,13 +4,13 @@ author: "Adrian Adermon"
 type: "page"
 ---
 
-|                   |                                                        |
-|:------------------|:-------------------------------------------------------|
-| Postal address:   | IFAU, P.O. Box 513, 752 20 Uppsala, Sweden             |
-| Visiting address: | IFAU, Kyrkogårdsgatan 6, 753 12 Uppsala, Sweden        |
-| Telephone:        | +46 (0)18 471 70 86                                    |
-| Email:            | adrian.adermon@ifau.uu.se                              |
-| Website:          | [www.adrianadermon.com](https://www.adrianadermon.com) |
+|                   |                                                               |
+|:------------------|:--------------------------------------------------------------|
+| Postal address:   | IFAU, P.O. Box 513, 752 20 Uppsala, Sweden                    |
+| Visiting address: | IFAU, Kyrkogårdsgatan 6, 753 12 Uppsala, Sweden               |
+| Telephone:        | [+46 (0)18 471 70 86](tel:+46184717086)                       |
+| Email:            | [adrian.adermon@ifau.uu.se](mailto:adrian.adermon@ifau.uu.se) |
+| Website:          | [www.adrianadermon.com](https://www.adrianadermon.com)        |
 
 ## Current position
 
