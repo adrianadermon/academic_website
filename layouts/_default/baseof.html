@@ -16,7 +16,6 @@
     {{ end }}</title>
   </head>
   <body class={{ .Params.pageclass }}>
-    <div class="wrapper">
     <div class="main">
     <!-- Code that all your templates share, like a header -->
     {{ block "main" . }}
@@ -26,6 +25,5 @@
     <!-- More shared code, perhaps a footer but that can be overridden if need be in  -->
     {{ end }}
     </div>
-</div>
   </body>
 </html>

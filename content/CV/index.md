@@ -18,7 +18,7 @@ Researcher, Institute for Evaluation of Labor Market and Education Policy (IFAU)
 
 ## Affiliations
 
-Department of Economics and Uppsala Center for Labor Studies, Uppsala University
+Uppsala Center for Labor Studies (UCLS) and Uppsala Center for Fiscal Studies (UCFS), Uppsala University.
 
 ## Previous experience
 
