@@ -1,22 +1,20 @@
-{{ $papers := .Page.Params.Papers }}
-{{ $site := .Site}}
-{{ range $papers }}
-  {{ with $site.GetPage . }}
-    {{ $date := time (.Params.Date)}}
-    <div>
-      <h3><a href={{ .Params.Url_pdf }}>{{ .Title }} ({{ $date.Year }})</a></h3>
-      <div class="abstract">
-        {{ partial "authors.html" .Params.Authors }}
-        <a href={{ .Params.Url_journal }}><em>{{ .Params.Publication }}</em>
-          {{ .Params.Volume }}{{ if .Params.Number }}({{ .Params.Number }}){{ end }}
-        </a>
-        <div> {{ .Params.Abstract | markdownify }}</div>
-        <div class="urls">
-          {{ range .Params.Url_custom }}
-            <a href={{ .url }}>{{ .name }}</a>
-          {{ end }}
-        </div>
+{{ $paper := .Get 0 }}
+{{ $path := path.Join "research" $paper }}
+{{ with .Site.GetPage $path }}
+  {{ $date := time (.Params.Date)}}
+  <div class="paper">
+    <h3 class="article-title"><a href={{ .Params.Url_pdf }}>{{ .Title }} ({{ $date.Year }})</a></h3>
+    <div class="article-body">
+      {{ partial "authors.html" .Params.Authors }}
+      <a href={{ .Params.Url_journal }}><em>{{ .Params.Publication }}</em>
+        {{ .Params.Volume }}{{ if .Params.Number }}({{ .Params.Number }}){{ end }}
+      </a>
+      <div class="abstract"> {{ .Params.Abstract | markdownify }}</div>
+      <div class="urls">
+        {{ range .Params.Url_custom }}
+          <a href={{ .url }}>{{ .name }}</a>
+        {{ end }}
       </div>
     </div>
-  {{ end }}
+  </div>
 {{ end }}

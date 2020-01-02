@@ -1,7 +1,8 @@
 ---
 title: "Curriculum Vitae"
 author: "Adrian Adermon"
-type: "page"
+type: "CV"
+date: "2020-01-02"
 ---
 
 |                   |                                                               |

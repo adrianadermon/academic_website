@@ -22,8 +22,16 @@ img {
   width: 220px;
 }
 
-.abstract {
+.article-title {
+  margin-bottom: 0.5em;
+}
+
+.article-body {
   margin-left: 1em;
+}
+
+.abstract {
+  margin-top: 0.5em;
 }
 
 /* Style hyperlinks */
