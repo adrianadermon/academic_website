@@ -5,7 +5,9 @@
   <div class="paper">
     <h3 class="article-title">
       {{ if .Params.Url_pdf }}
-        <a href={{ .Params.Url_pdf }}>{{ .Title }} ({{ $date.Year }})</a>
+        <a href={{ .Params.Url_pdf }}
+           target="_blank"
+           rel="noreferrer noopener">{{ .Title }} ({{ $date.Year }})</a>
       {{ else }}
         {{ .Title }} ({{ $date.Year }})
       {{ end }}
@@ -13,14 +15,18 @@
     <div class="article-body">
       {{ partial "authors.html" .Params.Authors }}
       {{ if .Params.Publication }}
-        <a href={{ .Params.Url_journal }}><em>{{ .Params.Publication }}</em>
+        <a href={{ .Params.Url_journal }}
+           target="_blank"
+           rel="noreferrer noopener"><em>{{ .Params.Publication }}</em>
           {{ .Params.Volume }}{{ if .Params.Number }}({{ .Params.Number }}){{ end }}
         </a>
       {{ end }}
       <div class="abstract"> {{ .Params.Abstract | markdownify }}</div>
       <div class="urls">
         {{ range .Params.Url_custom }}
-          <a href={{ .url }}>{{ .name }}</a>
+          <a href={{ .url }}
+             target="_blank"
+             rel="noreferrer noopener">{{ .name }}</a>
         {{ end }}
       </div>
     </div>

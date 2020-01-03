@@ -10,7 +10,8 @@ date = "2019-04-25"
 
 publication = "IZA Discussion Paper, revise and resubmit at American Economic Review"
 
-url_pdf = "https://www.dropbox.com/s/pksbku8c9a381t1/dp12300.pdf?dl=0"
+url_pdf = "/pdf/Dynastic_Human_Capital_IZA_2019.pdf"
+url_journal = "https://www.iza.org/publications/dp/12300/dynastic-human-capital-inequality-and-intergenerational-mobility"
 
 [[url_custom]]
 name = "Swedish summary"

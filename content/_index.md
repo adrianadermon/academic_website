@@ -7,4 +7,6 @@ I am a researcher at the Institute for Evaluation of Labor Market and Education 
 
 I received my PhD in Economics from Uppsala University in 2013. My research is mainly focused on two issues: long-run social mobility; and the impact of technological change on the labor market.
 
+Contact me at [adrian.adermon@ifau.uu.se](mailto:adrian.adermon@ifau.uu.se).
+
 [Full CV](/cv).
