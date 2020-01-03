@@ -3,12 +3,20 @@
 {{ with .Site.GetPage $path }}
   {{ $date := time (.Params.Date)}}
   <div class="paper">
-    <h3 class="article-title"><a href={{ .Params.Url_pdf }}>{{ .Title }} ({{ $date.Year }})</a></h3>
+    <h3 class="article-title">
+      {{ if .Params.Url_pdf }}
+        <a href={{ .Params.Url_pdf }}>{{ .Title }} ({{ $date.Year }})</a>
+      {{ else }}
+        {{ .Title }} ({{ $date.Year }})
+      {{ end }}
+    </h3>
     <div class="article-body">
       {{ partial "authors.html" .Params.Authors }}
-      <a href={{ .Params.Url_journal }}><em>{{ .Params.Publication }}</em>
-        {{ .Params.Volume }}{{ if .Params.Number }}({{ .Params.Number }}){{ end }}
-      </a>
+      {{ if .Params.Publication }}
+        <a href={{ .Params.Url_journal }}><em>{{ .Params.Publication }}</em>
+          {{ .Params.Volume }}{{ if .Params.Number }}({{ .Params.Number }}){{ end }}
+        </a>
+      {{ end }}
       <div class="abstract"> {{ .Params.Abstract | markdownify }}</div>
       <div class="urls">
         {{ range .Params.Url_custom }}

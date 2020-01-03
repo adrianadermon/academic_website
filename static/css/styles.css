@@ -22,6 +22,16 @@ img {
   width: 220px;
 }
 
+#cv-navigation a {
+ font-family: "Montserrat", sans-serif;
+ font-size: large;
+ margin-right: 2em;
+}
+
+#cv-author {
+  font-size: xx-large;
+}
+
 .article-title {
   margin-bottom: 0.5em;
 }

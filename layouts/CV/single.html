@@ -1,20 +1,19 @@
 {{ define "main" }}
 <section id="main">
-  <div>
+  <div id="cv-navigation">
     <a href="/index.html">Home</a>
     <a href="/pdf/CV.pdf"
       target="_blank"
       rel="noreferrer noopener">PDF version</a>
+    <br>
   </div>
   <div class="container">
-  <h1 id="title">{{ .Title }}</h1>
-  <h1 id="author">{{ $.Param "author" }}</h1>
+  <h1 id="cv-title">{{ .Title }}</h1>
+  <h1 id="cv-author">{{ $.Param "author" }}</h1>
+  <h3 id="cv-date">{{ .Date.Format "January 2, 2006" }}</h3>
         <article id="content">
            {{ .Content }}
         </article>
   </div>
-        <div class="last-updated">
-          Last updated: {{ .Date.Format "2006-01-02" }}
-        </div>
 </section>
 {{ end }}

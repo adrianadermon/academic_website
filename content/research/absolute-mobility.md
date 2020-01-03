@@ -6,5 +6,4 @@ abstract = "We compute rates of absolute upward income mobility for eight countr
 authors = ["Robert Manduca", "Maximilian Hell", "Adrian Adermon", "Jo Blanden", "Espen Bratberg", "Anne Gielin", "Hans van Kippersluis", "Keun Bok Lee", "Stephen Machin", "Martin D. Munk", "Martin Nybom", "Yuri Ostrovsky", "Sumaiya Rahman", "Outi Sirniö"]
 
 date = "2019-12-16"
-publication = "Manuscript"
 +++
