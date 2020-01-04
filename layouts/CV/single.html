@@ -10,7 +10,7 @@
   <div class="container">
   <h1 id="cv-title">{{ .Title }}</h1>
   <h1 id="cv-author">{{ $.Param "author" }}</h1>
-  <h3 id="cv-date">{{ .Date.Format "January 2, 2006" }}</h3>
+  <h3 id="cv-date">{{ .Lastmod.Format "January 2, 2006" }}</h3>
         <article id="content">
            {{ .Content }}
         </article>
