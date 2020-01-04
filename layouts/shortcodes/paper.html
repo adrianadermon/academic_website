@@ -13,6 +13,7 @@
       {{ end }}
     </h3>
     <div class="article-body">
+
       {{ partial "authors.html" .Params.Authors }}
       {{ if .Params.Publication }}
         <a href={{ .Params.Url_journal }}
@@ -21,13 +22,18 @@
           {{ .Params.Volume }}{{ if .Params.Number }}({{ .Params.Number }}){{ end }}
         </a>
       {{ end }}
-      <div class="abstract"> {{ .Params.Abstract | markdownify }}</div>
       <div class="urls">
         {{ range .Params.Url_custom }}
           <a href={{ .url }}
              target="_blank"
              rel="noreferrer noopener">{{ .name }}</a>
         {{ end }}
+      </div>
+      <div class="abstract">
+        <details>
+          <summary>Abstract</summary>
+          {{ .Params.Abstract | markdownify }}
+        </details>
       </div>
     </div>
   </div>
