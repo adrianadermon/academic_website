@@ -181,7 +181,24 @@ Labor economics, intergenerational mobility, inequality, technological change.
 
 ## Referee assignments
 
-Gender & Society, Social Science Research, Journal of Evolutionary Economics, European Economic Review, Journal of Public Economics, Journal of Human Resources, The Review of Income and Wealth, Journal of the European Economic Association, Labour Economics, Journal of Industrial Economics, CESifo Economic Studies, European Journal of Law and Economics, The Journal of Economic Inequality, Economic Inquiry, The Scandinavian Journal of Economics, European Sociological Review, Information Economics and Policy, Journal of Cultural Economics.
+CESifo Economic Studies,
+Economic Inquiry,
+European Economic Review,
+European Journal of Law and Economics,
+European Sociological Review,
+Gender & Society,
+Information Economics and Policy,
+Journal of Cultural Economics,
+The Journal of Economic Inequality,
+Journal of the European Economic Association,
+Journal of Evolutionary Economics,
+Journal of Human Resources,
+Journal of Industrial Economics,
+Journal of Public Economics,
+Labour Economics,
+The Review of Income and Wealth,
+The Scandinavian Journal of Economics,
+Social Science Research.
 
 ## Scholarships and grants
 
