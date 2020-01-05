@@ -118,11 +118,6 @@ a:active {
     grid-column: 1;
   }
 
-  .portrait {
-    display: block;
-    width: 220px;
-  }
-
   .presentation {
     display: grid;
     grid-column: 2;
