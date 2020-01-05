@@ -5,5 +5,4 @@ abstract = "The analysis of social mobility by economists has largely been been 
 
 authors = ["Adrian Adermon", "Gunnar Brandén", "Martin Nybom"]
 
-date = "2019-01-01"
 +++

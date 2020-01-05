@@ -51,9 +51,11 @@ Labor economics, intergenerational mobility, inequality, technological change.
 
 "Gig-jobs: Stepping Stones or Dead Ends?", with Lena Hensvik.
 
-"The role of the immediate and extended family in the formation of wealth: Evidence from Sweden", with Kristin Gunnarsson.
+"Trends in Absolute Income Mobility in North America and Europe", with Robert Manduca, Maximilian Hell, Adrian Adermon, Jo Blanden, Espen Bratberg, Anne Gielen, Hans van Kippersluis, Keun Bok Lee, Stephen Machin, Martin D. Munk, Martin Nybom, Yuri Ostrovsky, Sumaiya Rahman, and Outi Sirniö.
 
-"Educational Mobility Across Three Generations: Measurement Error or Social Interactions?"
+<!-- "The role of the immediate and extended family in the formation of wealth: Evidence from Sweden", with Kristin Gunnarsson. -->
+
+<!-- "Educational Mobility Across Three Generations: Measurement Error or Social Interactions?" -->
 
 <!-- "Sibling Spillovers in Education: Causal Estimates From a Natural Experiment" -->
 

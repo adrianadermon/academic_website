@@ -6,23 +6,12 @@ abstract_short = "We estimate intergenerational transmission coefficients using 
 
 authors = ["Adrian Adermon", "Mikael Lindahl", "Mårten Palme"]
 
-date = "2019-04-25"
+publication = "IZA Discussion Paper"
 
-publication = "IZA Discussion Paper, revise and resubmit at American Economic Review"
+revise = "Revise and resubmit at *American Economic Review*"
 
 url_pdf = "/pdf/Dynastic_Human_Capital_IZA_2019.pdf"
 url_journal = "https://www.iza.org/publications/dp/12300/dynastic-human-capital-inequality-and-intergenerational-mobility"
-
-[[auths]]
-name = "Adrian Adermon"
-
-[[auths]]
-name = "Mikael Lindahl"
-url = "https://sites.google.com/site/cmikaellindahl/"
-
-[[auths]]
-name = "Mårten Palme"
-url = "https://www.su.se/profiles/palme-1.181789"
 
 [[url_custom]]
 name = "Swedish summary"

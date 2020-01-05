@@ -3,25 +3,68 @@
 {{ with .Site.GetPage $path }}
   {{ $date := time (.Params.Date)}}
   <div class="paper">
-    <h3 class="article-title">
+    <h3 class="paper-title">
       {{ if .Params.Url_pdf }}
         <a href={{ .Params.Url_pdf }}
            target="_blank"
-           rel="noreferrer noopener">{{ .Title }} ({{ $date.Year }})</a>
+           rel="noreferrer noopener">
+          {{ .Title }}
+          {{ if .Params.Date }}
+            ({{ $date.Year }})
+          {{ end }}
+        </a>
       {{ else }}
-        {{ .Title }} ({{ $date.Year }})
+        {{ .Title }} 
+        {{ if .Params.Date }}
+          ({{ $date.Year }})
+        {{ end }}
       {{ end }}
     </h3>
-    <div class="article-body">
+  <div class="paper-body">
 
-      {{ partial "authors.html" .Params.Authors }}
-      {{ if .Params.Publication }}
-        <a href={{ .Params.Url_journal }}
-           target="_blank"
-           rel="noreferrer noopener"><em>{{ .Params.Publication }}</em>
-          {{ .Params.Volume }}{{ if .Params.Number }}({{ .Params.Number }}){{ end }}
-        </a>
-      {{ end }}
+  {{ if gt (len .Params.Authors) 1}}
+    <div>
+    {{ $len_coauthors := len .Params.Authors }}
+    {{ $cur_coauthor := 0 }}
+    {{ range .Params.Authors }}
+      {{- if ne . "Adrian Adermon" -}}
+        {{ $cur_coauthor = add $cur_coauthor 1 }}
+        {{- if eq $cur_coauthor 1 }}
+          with
+        {{ else if eq $cur_coauthor (sub $len_coauthors 1) }}
+          and
+        {{ else -}}
+          ,
+        {{ end -}}
+        {{- with index (where $.Site.Data.coauthors.coauthors "name" .) 0 -}}
+          <a href="{{ .url }}"
+             target="_blank"
+             rel="noreferrer noopener">{{ .name }}</a>
+        {{- else -}}
+          {{ . }}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+    </div>
+  {{- end -}}
+
+  {{ with .Params.Revise }}
+    <div>
+      {{ . | markdownify }}
+    </div>
+  {{ end }}
+
+  {{ if .Params.Publication }}
+    <a href={{ .Params.Url_journal }}
+       target="_blank"
+       rel="noreferrer noopener">
+      <em>{{ .Params.Publication }}</em>
+      {{ .Params.Volume -}}
+      {{ if .Params.Number -}}
+        ({{ .Params.Number }})
+      {{- end -}}
+    </a>
+  {{ end }}
       <div class="urls">
         {{ range .Params.Url_custom }}
           <a href={{ .url }}

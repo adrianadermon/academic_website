@@ -5,7 +5,6 @@ abstract = "How useful is work experience from the gig economy for entry into th
 
 authors = ["Adrian Adermon", "Lena Hensvik"]
 
-date = 2019-11-01
 publication = ""
 volume = ""
 number = ""
