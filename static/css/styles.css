@@ -80,6 +80,7 @@ a:active {
 }
 
 #portrait-img {
+  align-self: start;
   border-radius: 50%;
   display: block;
   max-width: 220px;
