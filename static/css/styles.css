@@ -17,12 +17,6 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: normal;
 }
 
-img {
-  border-radius: 50%;
-  width: 220px;
-  height: auto;
-}
-
 #cv-navigation a {
  font-family: "Montserrat", sans-serif;
  font-size: large;
@@ -85,6 +79,15 @@ a:active {
   justify-content: center;
 }
 
+#portrait-img {
+  border-radius: 50%;
+  display: block;
+  max-width: 220px;
+  width: 100%;
+  height: auto;
+}
+
+
 .social {
   display: flex;
   flex-flow: wrap;
@@ -117,6 +120,7 @@ a:active {
 
   .portrait {
     display: block;
+    width: 220px;
   }
 
   .presentation {
