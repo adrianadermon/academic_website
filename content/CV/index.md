@@ -212,6 +212,8 @@ Hedelius Scholarship for financing one semester of graduate studies at a Princet
 
 ## Administrative experience
 
+Seminar series organizer, IFAU, 2019--.
+
 Member of the organizing committee for Stockholm-Uppsala Doctoral Student Workshop in Economics (SUDSWEc), May 10, 2012 in Uppsala.
 
 Member of the organizing committee for Stockholm-Uppsala Doctoral Student Workshop in Economics (SUDSWEc), May 15, 2009 in Uppsala.
