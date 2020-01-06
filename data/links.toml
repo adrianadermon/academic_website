@@ -10,42 +10,35 @@ ideas = "pad101"
 [[social]]
 name = "Google Scholar"
 url = "https://scholar.google.com/citations?user=rZWge14AAAAJ"
-icon = "ai-google-scholar"
-icon_pack = "ai"
+icon = "ai ai-google-scholar"
 
 [[social]]
 name = "GitHub"
 url = "https://github.com/adrianadermon"
-icon = "fa-github"
-icon_pack = "fab"
+icon = "fab fa-github"
 
 [[social]]
 name = "IDEAS"
 url = "https://ideas.repec.org/e/pad101.html"
-icon = "ai-ideas-repec"
-icon_pack = "ai"
+icon = "ai ai-ideas-repec"
 
 [[social]]
 name = "publons"
 url = "https://publons.com/author/637267/adrian-adermon"
-icon = "ai-publons"
-icon_pack = "ai"
+icon = "ai ai-publons"
 
 [[social]]
 name = "ORCID"
 url = "https://orcid.org/0000-0002-7062-4308"
-icon = "ai-orcid"
-icon_pack = "ai"
+icon = "ai ai-orcid"
 
 [[social]]
 name = "Linkedin"
 url = "https://www.linkedin.com/in/adrian-adermon-ab13977b/"
-icon = "fa-linkedin"
-icon_pack = "fab"
+icon = "fab fa-linkedin"
 
 [[social]]
 name = "Twitter"
 url = "https://twitter.com/adrianadermon"
-icon = "fa-twitter"
-icon_pack = "fab"
+icon = "fab fa-twitter"
 
