@@ -10,8 +10,6 @@ publication = "The Economic Journal"
 volume = "128"
 number = "612"
 
-url_code = "https://github.com/adrianadermon/intergenerational_wealth_mobility"
-url_dataset = ""
 url_pdf = "/pdf/Intergenerational_Wealth_Mobility_2018.pdf"
 url_journal = "https://onlinelibrary.wiley.com/doi/abs/10.1111/ecoj.12535"
 

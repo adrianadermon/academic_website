@@ -10,8 +10,6 @@ publication = "The Scandinavian Journal of Economics"
 volume = "117"
 number = "3"
 
-url_code = ""
-url_dataset = ""
 url_pdf = "/pdf/Job_Polarization_and_Technological_Change_2015.pdf"
 url_journal = "http://onlinelibrary.wiley.com/doi/10.1111/sjoe.12109/full"
 

@@ -28,15 +28,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .paper-title {
-  margin-bottom: 0.5em;
+  margin-bottom: 0.4em;
 }
 
 .paper-body {
   margin-left: 1em;
 }
 
-.abstract {
-  margin-top: 0.5em;
+.paper-body > div {
+  margin-top: 0.3em;
 }
 
 /* Style hyperlinks */
@@ -87,7 +87,6 @@ a:active {
   width: 100%;
   height: auto;
 }
-
 
 .social {
   display: flex;

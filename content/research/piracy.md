@@ -5,8 +5,6 @@ authors = ["Adrian Adermon", "Che-Yuan Liang"]
 date = "2014-05-06"
 publication = "Journal of Economic Behavior & Organization"
 volume = "105"
-url_code = ""
-url_dataset = ""
 url_pdf = "/pdf/Piracy_and_Music_Sales_2014.pdf"
 url_journal = "http://www.sciencedirect.com/science/article/pii/S0167268114001395"
 
