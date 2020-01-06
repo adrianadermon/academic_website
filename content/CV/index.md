@@ -29,8 +29,11 @@ Visiting scholar, Center for Equitable Growth, UC Berkeley, September 2015--Marc
 ## Education
 
 * Ph.D. in Economics, spring 2013, Uppsala University.
+
 * Visiting student research collaborator, Princeton University, spring 2011.
+
 * Master of Social Science in Economics, 2007, Uppsala University.
+
 * Bachelor of Social Science in Statistics, 2010, Uppsala University.
 
 ## Ph.D. thesis
@@ -222,23 +225,23 @@ Member of the organizing committee for Stockholm-Uppsala Doctoral Student Worksh
 
 ## Teaching and supervision experience
 
-Assistant supervisor of PhD-candidate Yaroslav Yakymovych, 2018--.
+* Assistant supervisor of PhD-candidate Yaroslav Yakymovych, 2018--.
 
-Assistant supervisor of PhD-candidate Kristin Gunnarsson, 2016--2017.
+* Assistant supervisor of PhD-candidate Kristin Gunnarsson, 2016--2017.
 
-Lecturer, Labor II: Advanced Topics in Labor Economics (Uppsala University, Ph.D. level), 2017.
+* Lecturer, Labor II: Advanced Topics in Labor Economics (Uppsala University, Ph.D. level), 2017.
 
-Lecturer, Topics in Econometrics (Uppsala University, master level), 2014--2019.
+* Lecturer, Topics in Econometrics (Uppsala University, master level), 2014--2019.
 
-Lecturer, Applied Microeconometrics (Uppsala University, Ph.D. level), 2013--2014.
+* Lecturer, Applied Microeconometrics (Uppsala University, Ph.D. level), 2013--2014.
 
-Teaching assistant and guest lecturer, Microeconomics (Uppsala University, undergraduate level), 2019.
+* Teaching assistant and guest lecturer, Microeconomics (Uppsala University, undergraduate level), 2019.
 
-Teaching assistant, Basic Micro- and Macro Theory (Uppsala University, undergraduate level), 2008--2009.
+* Teaching assistant, Basic Micro- and Macro Theory (Uppsala University, undergraduate level), 2008--2009.
 
-Supervisor of Master's Theses (Uppsala University), 2018.
+* Supervisor of Master's Theses (Uppsala University), 2018.
 
-Supervisor of Bachelor's Theses (Uppsala University), 2014--2015.
+* Supervisor of Bachelor's Theses (Uppsala University), 2014--2015.
 
 ## Discussant assignments
 
