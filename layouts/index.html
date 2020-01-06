@@ -10,15 +10,17 @@
         </div>
         <div class="social ai-2x fa-2x">
           {{- range .Site.Data.links.social }}
-            <a href="{{ .url }}"
-               alt="{{ .name }}"
-               title="{{ .name }}"
-               data-toggle="tooltip"
-               target="_blank"
-               rel="noreferrer noopener">
-              <i class="{{ .icon }}">
-              </i>
-            </a>
+            <div class="social-item">
+              <a href="{{ .url }}"
+                 alt="{{ .name }}"
+                 title="{{ .name }}"
+                 data-toggle="tooltip"
+                 target="_blank"
+                 rel="noreferrer noopener">
+                <i class="{{ .icon }}">
+                </i>
+              </a>
+            </div>
           {{- end }}
         </div>
       </div>

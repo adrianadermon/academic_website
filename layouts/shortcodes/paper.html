@@ -51,25 +51,28 @@
           {{ . | markdownify }}
         </div>
       {{ end }}
-      <div class="publication">
       {{ if .Params.Publication }}
-        <a href={{ .Params.Url_journal }}
-           target="_blank"
-           rel="noreferrer noopener">
-          <em>{{ .Params.Publication }}</em>
-          {{ .Params.Volume -}}
-          {{ if .Params.Number -}}
-            ({{ .Params.Number }})
-          {{- end -}}
-        </a>
+        <div class="publication">
+          <a href={{ .Params.Url_journal }}
+             target="_blank"
+             rel="noreferrer noopener">
+            <em>{{ .Params.Publication }}</em>
+            {{ .Params.Volume -}}
+            {{ if .Params.Number -}}
+              ({{ .Params.Number }})
+            {{- end -}}
+          </a>
+        </div>
       {{ end }}
-      </div>
       {{- with .Params.Url_custom -}}
         <div class="urls">
           {{- range . }}
-            <a href={{ .url }}
-               target="_blank"
-               rel="noreferrer noopener">{{ .name }}</a>
+            <div class="paper-url">
+              <a href={{ .url }}
+                 target="_blank"
+                 rel="noreferrer noopener">{{ .name }}
+              </a>
+            </div>
           {{- end }}
         </div>
       {{- end }}
