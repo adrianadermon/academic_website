@@ -9,14 +9,17 @@
           <img src="/img/portrait1.jpg" alt="Portrait" id="portrait-img">
         </div>
           <div class="social ai-2x fa-2x">
-          <!-- <a href="mailto:{{ .Site.Data.links.email }}" alt="Send email" data-toggle="tooltip" title="Email"><i class="fa fa-envelope"></i></a> -->
-          <a href="//scholar.google.com/citations?user={{ .Site.Data.links.scholar }}" alt="Link to Google Scholar" data-toggle="tooltip" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-          <a href="//github.com/{{ .Site.Data.links.github }}" alt="Link to GitHub" data-toggle="tooltip" title="GitHub"><i class="fab fa-github"></i></a>
-          <a href="//ideas.repec.org/e/{{ .Site.Data.links.ideas }}.html" alt="Link to IDEAS" data-toggle="tooltip" title="IDEAS RePEc"><i class="ai ai-ideas-repec"></i></a>
-          <a href="//publons.com/author/{{ .Site.Data.links.publons }}" alt="Link to Publons" data-toggle="tooltip" title="Publons"><i class="ai ai-publons"></i></a>
-          <a href="https://orcid.org/{{ .Site.Data.links.orcid }}" alt="Link to ORCiD" data-toggle="tooltip" title="ORCiD"><i class="ai ai-orcid"></i></a>
-          <a href="//www.linkedin.com/in/{{ .Site.Data.links.linkedin }}" alt="Link to LinkedIn" data-toggle="tooltip" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-          <a href="//twitter.com/{{ .Site.Data.links.twitter }}" alt="Link to Twitter" data-toggle="tooltip" title="Twitter"><i class="fab fa-twitter"></i></a>
+            {{ range .Site.Data.links.social }}
+              <a href={{ .url }}
+                 alt ={{ .name }}
+                 title ={{ .name }}
+                 data-toggle="tooltip"
+                 target="_blank"
+                 rel="noreferrer noopener">
+                <i class="{{ .icon_pack }} {{ .icon }}">
+                </i>
+              </a>
+            {{ end }}
           </div>
 </div>
         <div class="about">

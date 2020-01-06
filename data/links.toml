@@ -1,4 +1,3 @@
-email = "adrian.adermon@ifau.uu.se"
 orcid = "0000-0002-7062-4308"
 scholar = "rZWge14AAAAJ"
 researchgate = "Adrian_Adermon"
@@ -8,43 +7,45 @@ linkedin = "adrian-adermon-ab13977b"
 github = "adrianadermon"
 ideas = "pad101"
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:adrian.adermon@ifau.uu.se"
+[[social]]
+name = "Google Scholar"
+url = "https://scholar.google.com/citations?user=rZWge14AAAAJ"
+icon = "ai-google-scholar"
+icon_pack = "ai"
 
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "//scholar.google.com/citations?user=rZWge14AAAAJ"
+[[social]]
+name = "GitHub"
+url = "https://github.com/adrianadermon"
+icon = "fa-github"
+icon_pack = "fab"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/adrianadermon"
+[[social]]
+name = "IDEAS"
+url = "https://ideas.repec.org/e/pad101.html"
+icon = "ai-ideas-repec"
+icon_pack = "ai"
 
-  [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//www.linkedin.com/in/adrian-adermon-ab13977b/"
+[[social]]
+name = "publons"
+url = "https://publons.com/author/637267/adrian-adermon"
+icon = "ai-publons"
+icon_pack = "ai"
 
-  [[params.social]]
-    icon = "researchgate"
-    icon_pack = "ai"
-    link = "//www.researchgate.net/profile/Adrian_Adermon"
+[[social]]
+name = "ORCID"
+url = "https://orcid.org/0000-0002-7062-4308"
+icon = "ai-orcid"
+icon_pack = "ai"
 
-  [[params.social]]
-    icon = "orcid"
-    icon_pack = "ai"
-    link = "//orcid.org/0000-0002-7062-4308"
+[[social]]
+name = "Linkedin"
+url = "https://www.linkedin.com/in/adrian-adermon-ab13977b/"
+icon = "fa-linkedin"
+icon_pack = "fab"
 
-  [[params.social]]
-    icon = "publons"
-    icon_pack = "ai"
-    link = "//publons.com/author/637267/adrian-adermon#profile"
-
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/adrianadermon"
+[[social]]
+name = "Twitter"
+url = "https://twitter.com/adrianadermon"
+icon = "fa-twitter"
+icon_pack = "fab"
 
