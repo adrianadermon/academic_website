@@ -4,74 +4,75 @@
   {{ $date := time (.Params.Date)}}
   <div class="paper">
     <h3 class="paper-title">
-      {{ if .Params.Url_pdf }}
+      {{- if .Params.Url_pdf }}
         <a href={{ .Params.Url_pdf }}
            target="_blank"
            rel="noreferrer noopener">
           {{ .Title }}
-          {{ if .Params.Date }}
+          {{ if .Params.Date -}}
             ({{ $date.Year }})
-          {{ end }}
+          {{- end }}
         </a>
       {{ else }}
         {{ .Title }} 
-        {{ if .Params.Date }}
+        {{ if .Params.Date -}}
           ({{ $date.Year }})
         {{ end }}
-      {{ end }}
+      {{- end -}}
     </h3>
-  <div class="paper-body">
-
-  {{ if gt (len .Params.Authors) 1}}
-    <div>
-    {{ $len_coauthors := len .Params.Authors }}
-    {{ $cur_coauthor := 0 }}
-    {{ range .Params.Authors }}
-      {{- if ne . "Adrian Adermon" -}}
-        {{ $cur_coauthor = add $cur_coauthor 1 }}
-        {{- if eq $cur_coauthor 1 }}
-          with
-        {{ else if eq $cur_coauthor (sub $len_coauthors 1) }}
-          and
-        {{ else -}}
-          ,
-        {{ end -}}
-        {{- with index (where $.Site.Data.coauthors.coauthors "name" .) 0 -}}
-          <a href="{{ .url }}"
-             target="_blank"
-             rel="noreferrer noopener">{{ .name }}</a>
-        {{- else -}}
-          {{ . }}
-        {{- end -}}
+    <div class="paper-body">
+      {{- if gt (len .Params.Authors) 1}}
+        <div class="authors">
+          {{- $len_coauthors := len .Params.Authors -}}
+          {{- $cur_coauthor := 0 -}}
+          {{ range .Params.Authors }}
+            {{- if ne . "Adrian Adermon" -}}
+              {{ $cur_coauthor = add $cur_coauthor 1 }}
+              {{- if eq $cur_coauthor 1 -}}
+                with
+              {{ else if eq $cur_coauthor (sub $len_coauthors 1) }}
+                and
+              {{ else -}}
+                ,
+              {{ end -}}
+              {{- with index (where $.Site.Data.coauthors.coauthors "name" .) 0 -}}
+                <a href="{{ .url }}"
+                   target="_blank"
+                   rel="noreferrer noopener">{{ .name }}</a>
+              {{- else -}}
+                {{ . }}
+              {{- end -}}
+            {{- end -}}
+          {{- end -}}
+        </div>
       {{- end -}}
-    {{- end -}}
-    </div>
-  {{- end -}}
-
-  {{ with .Params.Revise }}
-    <div>
-      {{ . | markdownify }}
-    </div>
-  {{ end }}
-
-  {{ if .Params.Publication }}
-    <a href={{ .Params.Url_journal }}
-       target="_blank"
-       rel="noreferrer noopener">
-      <em>{{ .Params.Publication }}</em>
-      {{ .Params.Volume -}}
-      {{ if .Params.Number -}}
-        ({{ .Params.Number }})
-      {{- end -}}
-    </a>
-  {{ end }}
-      <div class="urls">
-        {{ range .Params.Url_custom }}
-          <a href={{ .url }}
-             target="_blank"
-             rel="noreferrer noopener">{{ .name }}</a>
-        {{ end }}
+      {{ with .Params.Revise }}
+        <div class="revise">
+          {{ . | markdownify }}
+        </div>
+      {{ end }}
+      <div class="publication">
+      {{ if .Params.Publication }}
+        <a href={{ .Params.Url_journal }}
+           target="_blank"
+           rel="noreferrer noopener">
+          <em>{{ .Params.Publication }}</em>
+          {{ .Params.Volume -}}
+          {{ if .Params.Number -}}
+            ({{ .Params.Number }})
+          {{- end -}}
+        </a>
+      {{ end }}
       </div>
+      {{- with .Params.Url_custom -}}
+        <div class="urls">
+          {{- range . }}
+            <a href={{ .url }}
+               target="_blank"
+               rel="noreferrer noopener">{{ .name }}</a>
+          {{- end }}
+        </div>
+      {{- end }}
       <div class="abstract">
         <details>
           <summary>Abstract</summary>

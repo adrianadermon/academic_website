@@ -8,44 +8,31 @@
         <div class="portrait">
           <img src="/img/portrait1.jpg" alt="Portrait" id="portrait-img">
         </div>
-          <div class="social ai-2x fa-2x">
-            {{ range .Site.Data.links.social }}
-              <a href="{{ .url }}"
-                 alt="{{ .name }}"
-                 title="{{ .name }}"
-                 data-toggle="tooltip"
-                 target="_blank"
-                 rel="noreferrer noopener">
-                <i class="{{ .icon }}">
-                </i>
-              </a>
-            {{ end }}
-          </div>
-</div>
-        <div class="about">
-    <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
-          {{.Content}}
+        <div class="social ai-2x fa-2x">
+          {{- range .Site.Data.links.social }}
+            <a href="{{ .url }}"
+               alt="{{ .name }}"
+               title="{{ .name }}"
+               data-toggle="tooltip"
+               target="_blank"
+               rel="noreferrer noopener">
+              <i class="{{ .icon }}">
+              </i>
+            </a>
+          {{- end }}
         </div>
       </div>
-      <!-- <div> -->
-      <!--   {{ $papers := .Site.GetPage "/research" }} -->
-      <!--   {{ $published := $papers.Resources.ByType "page"}} -->
-      <!--   <h2>Published papers</h2> -->
-      <!--   {{ range $published }} -->
-      <!--       <h3>{{ .Title }}</h3> -->
-      <!--       {{ .Params.Abstract | markdownify }} -->
-      <!--       {{ .Params.Publication | markdownify }} -->
-      <!--   {{ end }} -->
-      <!-- </div> -->
-        <div class="research">
-          {{ with .Site.GetPage "/research" }}
-            {{ .Content }}
-          {{ end }}
-        </div>
-        <div class="last-updated">
-          Last updated: {{ now.Format "2006-01-02" }}
-        </div>
-  <div>
-  </div>
+      <div class="about">
+        {{.Content}}
+      </div>
+    </div>
+    <div class="research">
+      {{- with .Site.GetPage "/research" -}}
+        {{- .Content -}}
+      {{- end -}}
+    </div>
+    <div class="last-updated">
+      Last updated: {{ now.Format "2006-01-02" }}
+    </div>
   </main>
 {{ end }}
