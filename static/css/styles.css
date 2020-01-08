@@ -95,10 +95,17 @@ a:active {
   justify-content: space-around;
 }
 
+/* Center page content */
+body {
+  display: flex;
+  justify-content: center;
+}
+
 /* Main layout */
 @media (min-width: 480px) {
   .main {
-    margin: 0em 20%
+    margin: 0em 20%;
+    max-width: 800px;
   }
 
   /* Home page layout */
