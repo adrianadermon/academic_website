@@ -201,6 +201,7 @@ Journal of Human Resources,
 Journal of Industrial Economics,
 Journal of Public Economics,
 Labour Economics,
+Oxford Bulletin of Economics and Statistics,
 The Review of Income and Wealth,
 The Scandinavian Journal of Economics,
 Social Science Research.
