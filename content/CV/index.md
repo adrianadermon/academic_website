@@ -236,7 +236,7 @@ Member of the organizing committee for Stockholm-Uppsala Doctoral Student Worksh
 
 * Lecturer, Applied Microeconometrics (Uppsala University, Ph.D. level), 2013--2014.
 
-* Teaching assistant and guest lecturer, Microeconomics (Uppsala University, undergraduate level), 2019.
+* Teaching assistant and guest lecturer, Microeconomics (Uppsala University, undergraduate level), 2019--2020.
 
 * Teaching assistant, Basic Micro- and Macro Theory (Uppsala University, undergraduate level), 2008--2009.
 
