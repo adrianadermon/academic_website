@@ -204,6 +204,7 @@ Labour Economics,
 Oxford Bulletin of Economics and Statistics,
 The Review of Income and Wealth,
 The Scandinavian Journal of Economics,
+Social Forces,
 Social Science Research.
 
 ## Scholarships and grants
