@@ -233,7 +233,7 @@ Member of the organizing committee for Stockholm-Uppsala Doctoral Student Worksh
 
 * Lecturer, Labor II: Advanced Topics in Labor Economics (Uppsala University, Ph.D. level), 2017.
 
-* Lecturer, Topics in Econometrics (Uppsala University, master level), 2014--2019.
+* Lecturer, Topics in Econometrics (Uppsala University, master level), 2014--2020.
 
 * Lecturer, Applied Microeconometrics (Uppsala University, Ph.D. level), 2013--2014.
 
