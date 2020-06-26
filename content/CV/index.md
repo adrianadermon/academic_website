@@ -114,6 +114,8 @@ Labor economics, intergenerational mobility, inequality, technological change.
 
 ## Conference and workshop presentations
 
+* EALE/SOLE/AASLE World Conference, virtual, June 2020.
+
 * The impact of childhood circumstances on individual outcomes over the life-course (IMCHILD) Workshop, Stockholm, September 2019.
 
 * Meeting of the Society for the Study of Economic Inequality (ECINEQ), Paris, July 2019.
@@ -150,7 +152,7 @@ Labor economics, intergenerational mobility, inequality, technological change.
 
 * National Conference of Swedish Economists in Stockholm, September 2012.
 
-* Annual  Conference of the European Association of Labour Economists (EALE), Bonn, September 2012.
+* Annual Conference of the European Association of Labour Economists (EALE), Bonn, September 2012.
 
 * Annual Congress of the European Economic Association (EEA), Malaga, August 2012.
 
