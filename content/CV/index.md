@@ -50,11 +50,11 @@ Labor economics, intergenerational mobility, inequality, technological change.
 
 "Dynastic Human Capital, Inequality and Intergenerational Mobility", with Mikael Lindahl and Mårten Palme. IZA Discussion Paper 12300. Revise and resubmit at *American Economic Review*.
 
-"The Relationship Between Intergenerational Mobility and Equality of Opportunity", with Gunnar Brandén and Martin Nybom.
+"Trends in Absolute Income Mobility in North America and Europe", with Robert Manduca, Maximilian Hell, Adrian Adermon, Jo Blanden, Espen Bratberg, Anne C. Gielen, Hans van Kippersluis, Keun Bok Lee, Stephen Machin, Martin D. Munk, Martin Nybom, Yuri Ostrovsky, Sumaiya Rahman, and Outi Sirniö. IZA Discussion Paper 13456.
 
 "Gig-jobs: Stepping Stones or Dead Ends?", with Lena Hensvik.
 
-"Trends in Absolute Income Mobility in North America and Europe", with Robert Manduca, Maximilian Hell, Adrian Adermon, Jo Blanden, Espen Bratberg, Anne Gielen, Hans van Kippersluis, Keun Bok Lee, Stephen Machin, Martin D. Munk, Martin Nybom, Yuri Ostrovsky, Sumaiya Rahman, and Outi Sirniö.
+"The Relationship Between Intergenerational Mobility and Equality of Opportunity", with Gunnar Brandén and Martin Nybom.
 
 <!-- "The role of the immediate and extended family in the formation of wealth: Evidence from Sweden", with Kristin Gunnarsson. -->
 
