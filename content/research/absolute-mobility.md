@@ -12,4 +12,7 @@ revise = "Submitted"
 url_pdf = "/pdf/Trends_in_Absolute_Income_Mobility_IZA_2020.pdf"
 url_journal = "https://www.iza.org/publications/dp/13456/trends-in-absolute-income-mobility-in-north-america-and-europe"
 
+[[url_custom]]
+name = "Swedish summary"
+url = "https://www.ifau.se/sv/Forskning/Publikationer/Rapporter/2020/trender-i-absolut-inkomstrorlighet-i-europa-och-nordamerika/"
 +++
