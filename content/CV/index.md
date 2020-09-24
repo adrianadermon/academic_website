@@ -76,6 +76,8 @@ Labor economics, intergenerational mobility, inequality, technological change.
 
 ## Other publications
 
+"Trender i absolut inkomströrlighet i Europa och Nordamerika", with Robert Manduca, Maximilian Hell, Adrian Adermon, Jo Blanden, Espen Bratberg, Anne C. Gielen, Hans van Kippersluis, Keun Bok Lee, Stephen Machin, Martin D. Munk, Martin Nybom, Yuri Ostrovsky, Sumaiya Rahman, and Outi Sirniö. IFAU Rapport 2020:13.
+
 "Bristyrken i offentlig verksamhet --- Var arbetar de utbildade?", with Lisa Laun. *Ekonomisk Debatt* 7/2019.
 
 "Bristyrken i offentlig verksamhet --- Var arbetar de utbildade?", with Lisa Laun. IFAU Rapport 2018:19.
