@@ -192,6 +192,7 @@ Labor economics, intergenerational mobility, inequality, technological change.
 
 CESifo Economic Studies,
 Economic Inquiry,
+Economic Journal,
 European Economic Review,
 European Journal of Law and Economics,
 European Sociological Review,
