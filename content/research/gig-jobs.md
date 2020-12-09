@@ -9,7 +9,7 @@ publication = "IFAU Working Paper"
 
 revise = "Submitted"
 
-url_pdf = "/pdf/Gig_Jobs_IFAU.pdf"
+url_pdf = "/pdf/Gig_Jobs_IFAU_2020.pdf"
 url_journal = "https://www.ifau.se/en/Research/Publications/Working-papers/2020/gig-jobs-stepping-stones-or-dead-ends/"
 
 [[url_custom]]
