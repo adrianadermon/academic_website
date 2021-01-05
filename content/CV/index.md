@@ -48,8 +48,6 @@ Labor economics, intergenerational mobility, inequality, technological change.
 
 ## Current research projects
 
-"Dynastic Human Capital, Inequality and Intergenerational Mobility", with Mikael Lindahl and Mårten Palme. IZA Discussion Paper 12300. Revise and resubmit at *American Economic Review*.
-
 "Trends in Absolute Income Mobility in North America and Europe", with Robert Manduca, Maximilian Hell, Adrian Adermon, Jo Blanden, Espen Bratberg, Anne C. Gielen, Hans van Kippersluis, Keun Bok Lee, Stephen Machin, Martin D. Munk, Martin Nybom, Yuri Ostrovsky, Sumaiya Rahman, and Outi Sirniö. IZA Discussion Paper 13456.
 
 "Gig-jobs: Stepping Stones or Dead Ends?", with Lena Hensvik. IFAU Working Paper 2020:23.
@@ -63,6 +61,8 @@ Labor economics, intergenerational mobility, inequality, technological change.
 <!-- "Sibling Spillovers in Education: Causal Estimates From a Natural Experiment" -->
 
 ## Journal articles (peer reviewed)
+
+"Dynastic Human Capital, Inequality and Intergenerational Mobility" (forthcoming), with Mikael Lindahl and Mårten Palme. *American Economic Review*.
 
 "Intergenerational Wealth Mobility and the Role of Inheritance: Evidence from Multiple Generations" (2018), with Mikael Lindahl and Daniel Waldenström. *The Economic Journal* 128(612), F482--F513.
 
