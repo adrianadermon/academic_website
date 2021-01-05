@@ -9,7 +9,6 @@ publication = "IZA Discussion Paper"
 
 revise = "Forthcoming in *American Economic Review*"
 
-url_pdf = "/pdf/Dynastic_Human_Capital_IZA_2019.pdf"
 url_journal = "https://www.iza.org/publications/dp/12300/dynastic-human-capital-inequality-and-intergenerational-mobility"
 
 [[url_custom]]
