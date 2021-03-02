@@ -3,4 +3,3 @@ languageCode = "en-US"
 title = "Adrian Adermon"
 enableGitInfo = true
 disableKinds = ["taxonomy", "taxonomyTerm"]
-googleAnalytics = "UA-49995151-2"
