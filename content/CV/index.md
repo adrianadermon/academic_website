@@ -62,7 +62,7 @@ Labor economics, intergenerational mobility, inequality, technological change.
 
 ## Journal articles (peer reviewed)
 
-"Dynastic Human Capital, Inequality and Intergenerational Mobility" (forthcoming), with Mikael Lindahl and Mårten Palme. *American Economic Review*.
+"Dynastic Human Capital, Inequality, and Intergenerational Mobility" (2021), with Mikael Lindahl and Mårten Palme. *American Economic Review* 111(5), 1523--1548.
 
 "Intergenerational Wealth Mobility and the Role of Inheritance: Evidence from Multiple Generations" (2018), with Mikael Lindahl and Daniel Waldenström. *The Economic Journal* 128(612), F482--F513.
 
