@@ -8,7 +8,7 @@ headless = true
 
 {{< paper "dynastic-human-capital" >}}
 
-{{< paper "absolute-mobility.md" >}}
+{{< paper "absolute-mobility" >}}
 
 {{< paper "gig-jobs" >}}
 
@@ -16,8 +16,8 @@ headless = true
 
 # Published papers
 
-{{< paper "intergenerational-wealth.md" >}}
+{{< paper "intergenerational-wealth" >}}
 
-{{< paper "job-polarization.md" >}}
+{{< paper "job-polarization" >}}
 
-{{< paper "piracy.md" >}}
+{{< paper "piracy" >}}
