@@ -6,8 +6,6 @@ headless = true
 
 # Current research projects
 
-{{< paper "dynastic-human-capital" >}}
-
 {{< paper "absolute-mobility" >}}
 
 {{< paper "gig-jobs" >}}
@@ -15,6 +13,8 @@ headless = true
 {{< paper "eop-mobility" >}}
 
 # Published papers
+
+{{< paper "dynastic-human-capital" >}}
 
 {{< paper "intergenerational-wealth" >}}
 
