@@ -5,7 +5,7 @@ abstract = "We estimate long-run intergenerational persistence in human capital 
 
 authors = ["Adrian Adermon", "Mikael Lindahl", "Mårten Palme"]
 
-date = "2021-05-01"
+date = "2021-04-28"
 publication = "American Economic Review"
 volume = "111"
 number = "5"
