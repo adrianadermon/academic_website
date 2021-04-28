@@ -1,7 +1,7 @@
 +++
 title = "Intergenerational wealth mobility and the role of inheritance: Evidence from multiple generations"
 
-abstract = "This study estimates intergenerational wealth correlations across up to four generations and examines the degree to which the wealth association between parents and children can be explained by inheritances. Using a Swedish dataset with newly hand-collected data on wealth and bequests, we find parent-child rank correlations of 0.3-0.4 and grandparent-grandchild rank correlations of 0.1–0.2. Bequests and gifts appear to be central in this process, accounting for at least half of the parent-child wealth correlation while earnings and education can account for only a fourth."
+abstract = "This study estimates intergenerational wealth correlations across up to four generations and examines the degree to which the wealth association between parents and children can be explained by inheritances. Using a Swedish dataset with newly hand-collected data on wealth and bequests, we find parent-child rank correlations of 0.3--0.4 and grandparent-grandchild rank correlations of 0.1--0.2. Bequests and gifts appear to be central in this process, accounting for at least half of the parent-child wealth correlation while earnings and education can account for only a fourth."
 
 authors = ["Adrian Adermon", "Mikael Lindahl", "Daniel Waldenström"]
 
