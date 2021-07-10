@@ -118,6 +118,8 @@ Labor economics, intergenerational mobility, inequality, technological change.
 
 ## Conference and workshop presentations
 
+* Genes, Social Mobility, and Inequalities across the Life-Course, virtual, July 2021.
+
 * EALE/SOLE/AASLE World Conference, virtual, June 2020.
 
 * The impact of childhood circumstances on individual outcomes over the life-course (IMCHILD) Workshop, Stockholm, September 2019.
