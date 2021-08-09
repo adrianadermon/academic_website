@@ -48,7 +48,7 @@ Labor economics, intergenerational mobility, inequality, technological change.
 
 ## Current research projects
 
-"Trends in Absolute Income Mobility in North America and Europe", with Robert Manduca, Maximilian Hell, Adrian Adermon, Jo Blanden, Espen Bratberg, Anne C. Gielen, Hans van Kippersluis, Keun Bok Lee, Stephen Machin, Martin D. Munk, Martin Nybom, Yuri Ostrovsky, Sumaiya Rahman, and Outi Sirniö. DIAL Working Paper 04/2021.
+"Trends in Absolute Income Mobility in North America and Europe", with Robert Manduca, Maximilian Hell, Adrian Adermon, Jo Blanden, Espen Bratberg, Anne C. Gielen, Hans van Kippersluis, Keun Bok Lee, Stephen Machin, Martin D. Munk, Martin Nybom, Yuri Ostrovsky, Sumaiya Rahman, and Outi Sirniö. DIAL Working Paper 04/2021. Revise and resubmit at *American Economic Journal: Applied Economics*.
 
 "Gig-jobs: Stepping Stones or Dead Ends?", with Lena Hensvik. IFAU Working Paper 2020:23.
 

@@ -7,7 +7,7 @@ authors = ["Robert Manduca", "Maximilian Hell", "Adrian Adermon", "Jo Blanden", 
 
 publication = "DIAL Working Paper"
 
-revise = "Submitted"
+revise = "Revise and resubmit at *American Economic Journal: Applied Economics*"
 
 url_pdf = "/pdf/Trends_in_Absolute_Income_Mobility_DIAL_2021.pdf"
 url_journal = "https://dynamicsofinequality.org/publication/trends-in-absolute-income-mobility-in-north-america-and-europe/"
