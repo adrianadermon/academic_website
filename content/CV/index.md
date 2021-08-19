@@ -215,7 +215,8 @@ Oxford Economic Papers,
 The Review of Income and Wealth,
 The Scandinavian Journal of Economics,
 Social Forces,
-Social Science Research.
+Social Science Research,
+World Development.
 
 ## Scholarships and grants
 
