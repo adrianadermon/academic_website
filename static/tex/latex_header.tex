@@ -8,18 +8,19 @@
 
 \usepackage{parskip}
 
-\usepackage[compact,sc]{titlesec}
-
-% Set size and type for title
+% Adjust title and section headers
 \makeatletter
 \patchcmd{\@maketitle}{\LARGE \@title}{\scshape\Large\@title}{}{}
+
+\patchcmd{\@maketitle}{\@author}{\scshape\huge\@author}{}{}
+
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+                                     {-3ex\@plus -1ex \@minus -.2ex}%
+                                     {1ex \@plus .2ex}%
+                                     {\normalfont\large\scshape}}
 \makeatother
 
-% Set size and type for author
-\usepackage{authblk}
-\renewcommand\Authfont{\scshape\huge}
-
-% Attempt to remove table lines
+% Remove table lines
 \renewcommand{\toprule}{}
 \renewcommand{\midrule}{}
 \renewcommand{\bottomrule}{}
