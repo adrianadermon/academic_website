@@ -94,6 +94,8 @@ Labor economics, intergenerational mobility, inequality, technological change.
 
 ## Invited seminar presentations
 
+Research group Epidemiology of Chronic Diseases, The Arctic University of Norway, Tromsø, October 2021.
+
 * Swedish Ministry of Finance, Stockholm, April 2019.
 
 * Research Institute of Industrial Economics, Stockholm, April 2019.
