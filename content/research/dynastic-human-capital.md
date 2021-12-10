@@ -18,6 +18,10 @@ name = "Online appendix"
 url = "/pdf/Dynastic_Human_Capital_2021_Online_Appendix.pdf"
 
 [[url_custom]]
+name = "Swedish summary"
+url = "https://www.sns.se/artiklar/sns-analys-82-social-rorlighet/"
+
+[[url_custom]]
 name = "Statistical code"
 url = "https://www.openicpsr.org/openicpsr/project/123761/version/V1/view"
 +++

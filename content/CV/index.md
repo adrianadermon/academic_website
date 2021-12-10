@@ -76,6 +76,8 @@ Labor economics, intergenerational mobility, inequality, technological change.
 
 ## Other publications
 
+"Social rörlighet", with Mikael Lindahl and Mårten Palme. *SNS Analys* 82 (2021).
+
 "Gigekonomin som dörröppnare?", with Lena Hensvik. IFAU Rapport 2020:22.
 
 "Trender i absolut inkomströrlighet i Europa och Nordamerika", with Robert Manduca, Maximilian Hell, Adrian Adermon, Jo Blanden, Espen Bratberg, Anne C. Gielen, Hans van Kippersluis, Keun Bok Lee, Stephen Machin, Martin D. Munk, Martin Nybom, Yuri Ostrovsky, Sumaiya Rahman, and Outi Sirniö. IFAU Rapport 2020:13.
