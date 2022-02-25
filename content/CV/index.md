@@ -76,6 +76,8 @@ Labor economics, intergenerational mobility, inequality, technological change.
 
 ## Other publications
 
+"Coronapandemin, arbetsinkomsterna och välfärdsystemets skyddsgrad: Befolkningens inkomstutveckling under 2020", with Lisa Laun, Patrik Lind, Martin Olsson, Jan Sauermann, and Anna Sjögren. Background report for the Swedish Corona Commission. Also published as IFAU Rapport 2022:3. 
+
 "Social rörlighet", with Mikael Lindahl and Mårten Palme. *SNS Analys* 82 (2021).
 
 "Gigekonomin som dörröppnare?", with Lena Hensvik. IFAU Rapport 2020:22.
