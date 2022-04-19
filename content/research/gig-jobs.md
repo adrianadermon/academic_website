@@ -7,7 +7,7 @@ authors = ["Adrian Adermon", "Lena Hensvik"]
 
 publication = "IFAU Working Paper"
 
-revise = "Revise and resubmit at *Labour Economics*"
+revise = "Forthcoming in *Labour Economics*"
 
 url_pdf = "/pdf/Gig_Jobs_IFAU_2020.pdf"
 url_journal = "https://www.ifau.se/en/Research/Publications/Working-papers/2020/gig-jobs-stepping-stones-or-dead-ends/"

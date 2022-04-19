@@ -50,8 +50,6 @@ Labor economics, intergenerational mobility, inequality, technological change.
 
 "Trends in Absolute Income Mobility in North America and Europe", with Robert Manduca, Maximilian Hell, Jo Blanden, Espen Bratberg, Anne C. Gielen, Hans van Kippersluis, Keun Bok Lee, Stephen Machin, Martin D. Munk, Martin Nybom, Yuri Ostrovsky, Sumaiya Rahman, and Outi Sirniö. DIAL Working Paper 04/2021. Revise and resubmit at *American Economic Journal: Applied Economics*.
 
-"Gig-jobs: Stepping Stones or Dead Ends?", with Lena Hensvik. IFAU Working Paper 2020:23. Revise and resubmit at *Labour Economics*.
-
 "The Relationship Between Intergenerational Mobility and Equality of Opportunity", with Gunnar Brandén and Martin Nybom.
 
 <!-- "The role of the immediate and extended family in the formation of wealth: Evidence from Sweden", with Kristin Gunnarsson. -->
@@ -61,6 +59,8 @@ Labor economics, intergenerational mobility, inequality, technological change.
 <!-- "Sibling Spillovers in Education: Causal Estimates From a Natural Experiment" -->
 
 ## Journal articles (peer reviewed)
+
+"Gig-jobs: Stepping Stones or Dead Ends?" (forthcoming), with Lena Hensvik. *Labour Economics*.
 
 "Dynastic Human Capital, Inequality, and Intergenerational Mobility" (2021), with Mikael Lindahl and Mårten Palme. *American Economic Review* 111(5), 1523--1548.
 
