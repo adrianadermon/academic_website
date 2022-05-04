@@ -5,12 +5,13 @@ abstract = "How useful is work experience from the gig economy for labor market 
 
 authors = ["Adrian Adermon", "Lena Hensvik"]
 
-publication = "IFAU Working Paper"
+date = "2022-04-19"
+publication = "Labour Economics"
+volume = "76"
+number = "102171"
 
-revise = "Forthcoming in *Labour Economics*"
-
-url_pdf = "/pdf/Gig_Jobs_IFAU_2020.pdf"
-url_journal = "https://www.ifau.se/en/Research/Publications/Working-papers/2020/gig-jobs-stepping-stones-or-dead-ends/"
+url_pdf = "/pdf/Gig_jobs_2022.pdf"
+url_journal = "https://www.sciencedirect.com/science/article/pii/S0927537122000628"
 
 [[url_custom]]
 name = "Swedish summary"

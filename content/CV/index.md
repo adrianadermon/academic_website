@@ -60,7 +60,7 @@ Labor economics, intergenerational mobility, inequality, technological change.
 
 ## Journal articles (peer reviewed)
 
-"Gig-jobs: Stepping Stones or Dead Ends?" (forthcoming), with Lena Hensvik. *Labour Economics*.
+"Gig-jobs: Stepping stones or dead ends?" (2022), with Lena Hensvik. *Labour Economics* 76(102171).
 
 "Dynastic Human Capital, Inequality, and Intergenerational Mobility" (2021), with Mikael Lindahl and Mårten Palme. *American Economic Review* 111(5), 1523--1548.
 
