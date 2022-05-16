@@ -124,6 +124,8 @@ Labor economics, intergenerational mobility, inequality, technological change.
 
 ## Conference and workshop presentations
 
+* Frontiers in Econometrics Workshop, Bern, May 2022.
+
 * Genes, Social Mobility, and Inequalities across the Life-Course, virtual, July 2021.
 
 * EALE/SOLE/AASLE World Conference, virtual, June 2020.
