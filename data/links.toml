@@ -22,10 +22,10 @@ name = "IDEAS"
 url = "https://ideas.repec.org/e/pad101.html"
 icon = "ai ai-ideas-repec"
 
-[[social]]
-name = "publons"
-url = "https://publons.com/author/637267/adrian-adermon"
-icon = "ai ai-publons"
+# [[social]]
+# name = "publons"
+# url = "https://www.webofscience.com/wos/author/record/1259050"
+# icon = "ai ai-publons"
 
 [[social]]
 name = "ORCID"
