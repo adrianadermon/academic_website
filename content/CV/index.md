@@ -250,7 +250,7 @@ Member of the organizing committee for Stockholm-Uppsala Doctoral Student Worksh
 
 ## Teaching and supervision experience
 
-* Assistant supervisor of PhD-candidate Yaroslav Yakymovych, 2018--2021.
+* Assistant supervisor of PhD-candidate Yaroslav Yakymovych, 2018--2022.
 
 * Assistant supervisor of PhD-candidate Kristin Gunnarsson, 2016--2017.
 
