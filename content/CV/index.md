@@ -102,6 +102,8 @@ Labor economics, intergenerational mobility, inequality, technological change.
 
 ## Invited seminar presentations
 
+* Division of Developmental Psychology, Department of Psychology, Uppsala University, November 2022.
+
 * Research group Epidemiology of Chronic Diseases, The Arctic University of Norway, Tromsø, October 2021.
 
 * Swedish Ministry of Finance, Stockholm, April 2019.
@@ -127,6 +129,8 @@ Labor economics, intergenerational mobility, inequality, technological change.
 * The Danish National Centre for Social Research (SFI), Copenhagen, October 2012.
 
 ## Conference and workshop presentations
+
+* Swedish conference in Economics, Stockholm, November 2022.
 
 * Frontiers in Econometrics Workshop, Bern, May 2022.
 
