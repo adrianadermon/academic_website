@@ -23,9 +23,9 @@ url = "https://ideas.repec.org/e/pad101.html"
 icon = "ai ai-ideas-repec"
 
 # [[social]]
-# name = "publons"
+# name = "Web of Science"
 # url = "https://www.webofscience.com/wos/author/record/1259050"
-# icon = "ai ai-publons"
+# icon = "ai ai-clarivate"
 
 [[social]]
 name = "ORCID"
@@ -36,6 +36,12 @@ icon = "ai ai-orcid"
 name = "Linkedin"
 url = "https://www.linkedin.com/in/adrian-adermon-ab13977b/"
 icon = "fab fa-linkedin"
+
+[[social]]
+name = "Mastodon"
+url = "https://econtwitter.net/@adrianadermon"
+icon = "fab fa-mastodon"
+rel = "me"
 
 [[social]]
 name = "Twitter"
