@@ -238,6 +238,8 @@ World Development.
 
 ## Scholarships and grants
 
+Swedish Research Council, "Incomes, inequality and the welfare system during the corona pandemic", project grant for research into pandemics and their effects on society and public health, 2023--2025, lead applicant Jan Sauermann.
+
 NORFACE Dial, "The impact of childhood circumstances on individual outcomes over the life-course", multi-national research project 2018--2020, lead applicants A. Peichl, A. Trannoy, D. Waldenström, and A. Lefranc.
 
 Travel grant for visiting University of California, Berkeley, Jan Wallander and Tom Hedelius Foundation, 2015.
@@ -248,7 +250,7 @@ Hedelius Scholarship for financing one semester of graduate studies at a Princet
 
 ## Administrative experience
 
-Seminar series organizer, IFAU, 2019--.
+Seminar series organizer, IFAU, 2019--2022.
 
 Member of the organizing committee for Stockholm-Uppsala Doctoral Student Workshop in Economics (SUDSWEc), May 10, 2012 in Uppsala.
 
