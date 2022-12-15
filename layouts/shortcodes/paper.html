@@ -1,7 +1,6 @@
 {{ $paper := .Get 0 }}
 {{ $path := path.Join "research" $paper }}
 {{ with .Site.GetPage $path }}
-  {{ $date := time (.Params.Date)}}
   <div class="paper">
     <h3 class="paper-title">
       {{- if .Params.Url_pdf }}
@@ -9,14 +8,14 @@
            target="_blank"
            rel="noreferrer noopener">
           {{ .Title }}
-          {{ if .Params.Date -}}
-            ({{ $date.Year }})
+          {{ with .Params.Date -}}
+            ({{ (time .).Year }})
           {{- end }}
         </a>
       {{ else }}
-        {{ .Title }} 
-        {{ if .Params.Date -}}
-          ({{ $date.Year }})
+        {{ .Title }}
+        {{ with .Params.Date -}}
+            ({{ (time .).Year }})
         {{ end }}
       {{- end -}}
     </h3>
