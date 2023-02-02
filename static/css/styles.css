@@ -139,3 +139,6 @@ body {
   margin-right: 1em;
 }
 
+ul li {
+    line-height: 2;
+}
