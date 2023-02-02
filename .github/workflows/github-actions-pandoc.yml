@@ -3,7 +3,7 @@ name: Convert CV to PDF
 on:
   push:
     paths:
-      - 'content/CV/index.md'
+      - 'content/CV/index.org'
 
 jobs:
   convert_via_pandoc:
@@ -20,7 +20,7 @@ jobs:
             --variable=subparagraph
             --variable papersize=a4
             --lua-filter=static/lua/current_date.lua
-            content/CV/index.md
+            content/CV/index.org
       - run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
