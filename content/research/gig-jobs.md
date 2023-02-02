@@ -8,7 +8,6 @@ authors = ["Adrian Adermon", "Lena Hensvik"]
 date = "2022-04-19"
 publication = "Labour Economics"
 volume = "76"
-number = "102171"
 
 url_pdf = "/pdf/Gig-jobs_2022.pdf"
 url_journal = "https://www.sciencedirect.com/science/article/pii/S0927537122000628"
