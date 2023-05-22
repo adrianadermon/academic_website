@@ -236,6 +236,7 @@ The Review of Economic Studies,
 The Review of Income and Wealth,
 The Scandinavian Journal of Economics,
 Social Forces,
+Social Science History,
 Social Science Research,
 World Development.
 
