@@ -15,4 +15,8 @@ url_journal = "https://www.sciencedirect.com/science/article/pii/S09275371220006
 [[url_custom]]
 name = "Swedish summary"
 url = "https://www.ifau.se/sv/Forskning/Publikationer/Rapporter/2020/gigekonomin-som-dorroppnare/"
+
+[[url_custom]]
+name = "Replication package"
+url = "https://github.com/adrianadermon/gig-jobs"
 +++

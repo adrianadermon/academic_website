@@ -22,6 +22,6 @@ name = "Swedish summary"
 url = "https://www.ifau.se/sv/Forskning/Publikationer/Rapporter/2018/formogenhet-och-arv-over-flera-generationer/"
 
 [[url_custom]]
-name = "Statistical code"
+name = "Replication package"
 url = "https://github.com/adrianadermon/intergenerational_wealth_mobility"
 +++

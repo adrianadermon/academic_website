@@ -22,6 +22,6 @@ name = "Swedish summary"
 url = "https://www.sns.se/artiklar/sns-analys-82-social-rorlighet/"
 
 [[url_custom]]
-name = "Statistical code"
+name = "Replication package"
 url = "https://www.openicpsr.org/openicpsr/project/123761/version/V1/view"
 +++
