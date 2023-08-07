@@ -7,7 +7,7 @@ authors = ["Adrian Adermon", "Lisa Laun", "Patrik Lind", "Martin Olsson", "Jan S
 
 publication = "IFAU Working Paper"
 
-revise = "Revise and resubmit at *Review of Income and Wealth*"
+revise = "Accepted for publication in *Review of Income and Wealth*"
 
 url_pdf = "/pdf/Earnings_Losses_Covid_IFAU_2022.pdf"
 url_journal = "https://www.ifau.se/Forskning/Publikationer/Working-papers/2022/earnings-losses-and-the-role-of-the-welfare-state-during-the-covid-19-pandemic-evidence-from-sweden/"
