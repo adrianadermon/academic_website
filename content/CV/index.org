@@ -47,11 +47,6 @@ Defended June 7, 2013. Supervisor: Professor Mikael Lindahl. Assistant superviso
 Labor economics, intergenerational mobility, inequality, technological change.
 
 * Current research projects
-
-"Earnings losses and the role of the welfare state during the COVID-19 pandemic: evidence from Sweden", with Lisa Laun, Patrik Lind, Martin Olsson, Jan Sauermann, and Anna Sjögren. IFAU Working Paper 2022:20. Accepted for publication in /Review of Income and Wealth/.
-
-"Measuring Absolute Income Mobility: Lessons from North America and Europe", with Robert Manduca, Maximilian Hell, Jo Blanden, Espen Bratberg, Anne C. Gielen, Hans van Kippersluis, Keun Bok Lee, Stephen Machin, Martin D. Munk, Martin Nybom, Yuri Ostrovsky, Sumaiya Rahman, and Outi Sirniö. Accepted for publication in /American Economic Journal: Applied Economics/.
-
 "Understanding occupational wage growth", with Simon Ek, Georg Graetz, and Yaroslav Yakymovych.
 
 "The Relationship Between Intergenerational Mobility and Equality of Opportunity", with Gunnar Brandén and Martin Nybom.
@@ -63,6 +58,9 @@ Labor economics, intergenerational mobility, inequality, technological change.
 # "Sibling Spillovers in Education: Causal Estimates From a Natural Experiment"
 
 * Journal articles (peer reviewed)
+"Earnings losses and the role of the welfare state during the COVID-19 pandemic: evidence from Sweden", with Lisa Laun, Patrik Lind, Martin Olsson, Jan Sauermann, and Anna Sjögren. IFAU Working Paper 2022:20. Forthcoming in /Review of Income and Wealth/.
+
+"Measuring Absolute Income Mobility: Lessons from North America and Europe", with Robert Manduca, Maximilian Hell, Jo Blanden, Espen Bratberg, Anne C. Gielen, Hans van Kippersluis, Keun Bok Lee, Stephen Machin, Martin D. Munk, Martin Nybom, Yuri Ostrovsky, Sumaiya Rahman, and Outi Sirniö. Forthcoming in /American Economic Journal: Applied Economics/.
 
 "Gig-jobs: Stepping stones or dead ends?" (2022), with Lena Hensvik. /Labour Economics/ 76, 102171.
 
