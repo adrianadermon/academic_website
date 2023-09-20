@@ -43,7 +43,7 @@ url = "https://sciences.social/@adrianadermon"
 icon = "fab fa-mastodon"
 rel = "me"
 
-[[social]]
-name = "Bluesky"
-url = "https://bsky.app/profile/adrianadermon.bsky.social"
-icon = "fas fa-cloud"
+# [[social]]
+# name = "Bluesky"
+# url = "https://bsky.app/profile/adrianadermon.bsky.social"
+# icon = "fas fa-cloud"
