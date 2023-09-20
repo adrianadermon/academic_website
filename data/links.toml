@@ -46,4 +46,4 @@ rel = "me"
 [[social]]
 name = "Bluesky"
 url = "https://bsky.app/profile/adrianadermon.bsky.social"
-icon = "fab fa-square"
+icon = "fas fa-square"
