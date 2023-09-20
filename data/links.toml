@@ -39,12 +39,11 @@ icon = "fab fa-linkedin"
 
 [[social]]
 name = "Mastodon"
-url = "https://econtwitter.net/@adrianadermon"
+url = "https://sciences.social/@adrianadermon"
 icon = "fab fa-mastodon"
 rel = "me"
 
 [[social]]
-name = "Twitter"
-url = "https://twitter.com/adrianadermon"
-icon = "fab fa-twitter"
-
+name = "Bluesky"
+url = "https://bsky.app/profile/adrianadermon.bsky.social"
+icon = "fa-solid fa-square"
