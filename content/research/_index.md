@@ -8,11 +8,11 @@ headless = true
 
 {{< paper "covid" >}}
 
-{{< paper "absolute-mobility" >}}
-
 {{< paper "eop-mobility" >}}
 
 # Published papers
+
+{{< paper "absolute-mobility" >}}
 
 {{< paper "gig-jobs" >}}
 

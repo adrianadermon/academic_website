@@ -1,1 +1,6 @@
 tags
+*.DS_Store
+*.lock
+*.log
+/public/
+/static/tex/auto/
