@@ -249,6 +249,10 @@ Social Science History,
 Social Science Research,
 World Development.
 
+* Grant review assignments
+
+European Research Council.
+
 * Scholarships and grants
 
 Swedish Research Council, "Incomes, inequality and the welfare system during the corona pandemic", project grant for research into pandemics and their effects on society and public health, 2023--2025, lead applicant Jan Sauermann.
