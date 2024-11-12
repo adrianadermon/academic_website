@@ -40,7 +40,7 @@ icon = "fab fa-linkedin"
 [[social]]
 name = "Bluesky"
 url = "https://bsky.app/profile/adrianadermon.bsky.social"
-icon = "fab fa-bluesky"
+icon = "fa-brands fa-bluesky"
 
 [[social]]
 name = "Mastodon"
