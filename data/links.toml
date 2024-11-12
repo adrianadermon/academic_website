@@ -38,12 +38,12 @@ url = "https://www.linkedin.com/in/adrian-adermon-ab13977b/"
 icon = "fab fa-linkedin"
 
 [[social]]
+name = "Bluesky"
+url = "https://bsky.app/profile/adrianadermon.bsky.social"
+icon = "fab fa-bluesky"
+
+[[social]]
 name = "Mastodon"
 url = "https://sciences.social/@adrianadermon"
 icon = "fab fa-mastodon"
 rel = "me"
-
-# [[social]]
-# name = "Bluesky"
-# url = "https://bsky.app/profile/adrianadermon.bsky.social"
-# icon = "fas fa-cloud"
