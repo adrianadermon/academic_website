@@ -6,11 +6,11 @@ headless = true
 
 # Current research projects
 
-{{< paper "covid" >}}
-
 {{< paper "eop-mobility" >}}
 
 # Published papers
+
+{{< paper "covid" >}}
 
 {{< paper "absolute-mobility" >}}
 
