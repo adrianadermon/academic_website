@@ -6,6 +6,8 @@ headless = true
 
 # Current research projects
 
+{{< paper "mobility-immigrants" >}}
+
 {{< paper "eop-mobility" >}}
 
 # Published papers
