@@ -42,5 +42,12 @@ authors = ["Leah Boustan",
 "Angela Zheng",
 "Tom Zohar"]
 
+url_pdf = "/pdf/Intergen_immigrants_15_countries.pdf"
+
+[[url_custom]]
+name = "IZA Discussion Paper"
+url = "https://www.iza.org/publications/dp/17711/intergenerational-mobility-of-immigrants-in-15-destination-countries"
+
+
 revise = "Submitted"
 +++
