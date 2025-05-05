@@ -101,6 +101,7 @@ Submitted.
 # "Sibling Spillovers in Education: Causal Estimates From a Natural Experiment"
 
 * Journal articles (peer reviewed)
+
 "Earnings Losses and the Role of the Welfare State During the COVID-19 Pandemic: Evidence from Sweden" (2024), with Lisa Laun, Patrik Lind, Martin Olsson, Jan Sauermann, and Anna Sjögren. /Review of Income and Wealth/ 70(4), 981--1010.
 
 "Measuring Absolute Income Mobility: Lessons from North America and Europe" (2024), with Robert Manduca, Maximilian Hell, Jo Blanden, Espen Bratberg, Anne C. Gielen, Hans van Kippersluis, Keunbok Lee, Stephen Machin, Martin D. Munk, Martin Nybom, Yuri Ostrovsky, Sumaiya Rahman, and Outi Sirniö. /American Economic Journal: Applied Economics/ 16(2), 1--30.
