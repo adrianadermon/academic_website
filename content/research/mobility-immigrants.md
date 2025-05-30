@@ -42,7 +42,7 @@ authors = ["Leah Boustan",
 "Angela Zheng",
 "Tom Zohar"]
 
-revise = "Submitted"
+revise = "Revise and resubmit at the *American Economic Review*"
 
 url_pdf = "/pdf/Intergen_immigrants_15_countries.pdf"
 
