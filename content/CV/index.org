@@ -336,9 +336,11 @@ Member of the organizing committee for Stockholm-Uppsala Doctoral Student Worksh
 
 - Assistant supervisor of PhD-candidate Kristin Gunnarsson, 2016--2017.
 
-- Lecturer, Labor II: Advanced Topics in Labor Economics (Uppsala University, Ph.D. level), 2017.
+- Lecturer, Machine Learning with Economic and Financial Applications (Uppsala University, master level), 2025--.
 
 - Lecturer, Topics in Econometrics (Uppsala University, master level), 2014--2024.
+
+- Lecturer, Labor II: Advanced Topics in Labor Economics (Uppsala University, Ph.D. level), 2017.
 
 - Lecturer, Applied Microeconometrics (Uppsala University, Ph.D. level), 2013--2014.
 
