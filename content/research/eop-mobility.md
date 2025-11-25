@@ -5,7 +5,7 @@ abstract = "Among economists, empirical analysis of social mobility and the role
 
 authors = ["Adrian Adermon", "Gunnar Brandén", "Martin Nybom"]
 
-revise = "Submitted"
+revise = "Revise and resubmit at the *Scandinavian Journal of Economics*"
 
 url_pdf = "/pdf/EOp_Mobility_2025.pdf"
 
