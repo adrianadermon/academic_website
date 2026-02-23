@@ -10,6 +10,8 @@ headless = true
 
 {{< paper "eop-mobility" >}}
 
+{{< paper "occ-wage" >}}
+
 # Published papers
 
 {{< paper "covid" >}}
