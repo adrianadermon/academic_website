@@ -12,6 +12,8 @@ headless = true
 
 {{< paper "occ-wage" >}}
 
+{{< paper "ethnic-capital" >}}
+
 # Published papers
 
 {{< paper "covid" >}}
