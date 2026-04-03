@@ -33,11 +33,6 @@ url = "https://orcid.org/0000-0002-7062-4308"
 icon = "ai ai-orcid"
 
 [[social]]
-name = "Linkedin"
-url = "https://www.linkedin.com/in/adrian-adermon-ab13977b/"
-icon = "fab fa-linkedin"
-
-[[social]]
 name = "Bluesky"
 url = "https://bsky.app/profile/adrianadermon.bsky.social"
 icon = "fa-brands fa-bluesky"
