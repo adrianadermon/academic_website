@@ -92,9 +92,6 @@ and
 Tom Zohar.
 Revise and resubmit at the /American Economic Review/.
 
-"The Relationship Between Intergenerational Mobility and Equality of Opportunity", with Gunnar Brandén and Martin Nybom.
-Revise and resubmit at the /Scandinavian Journal of Economics/.
-
 "Understanding occupational wage growth", with Simon Ek, Georg Graetz, and Yaroslav Yakymovych.
 Revise and resubmit at the /Journal of Applied Econometrics/.
 
@@ -107,6 +104,9 @@ Revise and resubmit at the /Journal of Applied Econometrics/.
 # "Sibling Spillovers in Education: Causal Estimates From a Natural Experiment"
 
 * Journal articles (peer reviewed)
+
+"The Relationship Between Intergenerational Mobility and Equality of Opportunity", with Gunnar Brandén and Martin Nybom.
+Accepted for publication in the  /Scandinavian Journal of Economics/.
 
 "Earnings Losses and the Role of the Welfare State During the COVID-19 Pandemic: Evidence from Sweden" (2024), with Lisa Laun, Patrik Lind, Martin Olsson, Jan Sauermann, and Anna Sjögren. /Review of Income and Wealth/ 70(4), 981--1010.
 

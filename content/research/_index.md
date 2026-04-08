@@ -8,13 +8,13 @@ headless = true
 
 {{< paper "mobility-immigrants" >}}
 
-{{< paper "eop-mobility" >}}
-
 {{< paper "occ-wage" >}}
 
 {{< paper "ethnic-capital" >}}
 
 # Published papers
+
+{{< paper "eop-mobility" >}}
 
 {{< paper "covid" >}}
 
