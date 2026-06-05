@@ -6,4 +6,11 @@ abstract = "We jointly estimate growth in occupational wage premia as well as ti
 authors = ["Adrian Adermon", "Simon Ek", "Georg Graetz", "Yaroslav Yakymovych"]
 
 revise = "Revise and resubmit at the *Journal of Applied Econometrics*"
+
+url_pdf = "/pdf/Occ_Wage_Growth_2026.pdf"
+
+[[url_custom]]
+name = "Swedish summary"
+url = "https://www.ifau.se/Forskning/Publikationer/Rapporter/2026/yrken-loner-och-efterfragan-pa-arbetskraft/"
+
 +++
