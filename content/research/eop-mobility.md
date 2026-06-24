@@ -5,12 +5,19 @@ abstract = "Among economists, empirical analysis of social mobility and the role
 
 authors = ["Adrian Adermon", "Gunnar Brandén", "Martin Nybom"]
 
-revise = "Accepted for publication in the *Scandinavian Journal of Economics*"
+date = "2026-06-24"
+publication = "Scandinavian Journal of Economics"
+volume = "Early access"
 
-url_pdf = "/pdf/EOp_Mobility_2025.pdf"
+url_pdf = "/pdf/EOp_Mobility_2026.pdf"
+url_journal = "https://onlinelibrary.wiley.com/doi/10.1111/sjoe.70033"
 
 [[url_custom]]
 name = "Swedish summary"
 url = "https://www.ifau.se/Forskning/Publikationer/Rapporter/2025/social-rorlighet-och-lika-mojligheter/"
+
+[[url_custom]]
+name = "Online appendix"
+url = "/pdf/Dynastic_Human_Capital_2021EOp_Mobility_202_Online_Appendix.pdf"
 +++
 
