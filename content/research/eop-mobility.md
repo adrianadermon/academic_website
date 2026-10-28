@@ -18,7 +18,7 @@ url = "https://www.ifau.se/Forskning/Publikationer/Rapporter/2025/social-rorligh
 
 [[url_custom]]
 name = "Online appendix"
-url = "/pdf/EOp_Mobility_202_Online_Appendix.pdf"
+url = "/pdf/EOp_Mobility_2026_Online_Appendix.pdf"
 
 [[url_custom]]
 name = "Replication package"
